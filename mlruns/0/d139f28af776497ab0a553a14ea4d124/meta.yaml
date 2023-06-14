@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d139f28af776497ab0a553a14ea4d124/artifacts
+end_time: 1686683479028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d139f28af776497ab0a553a14ea4d124
+run_name: placid-roo-636
+run_uuid: d139f28af776497ab0a553a14ea4d124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686683478830
+status: 3
+tags: []
+user_id: Harish Vasanth
