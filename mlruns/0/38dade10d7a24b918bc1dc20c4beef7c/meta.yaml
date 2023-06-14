@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/38dade10d7a24b918bc1dc20c4beef7c/artifacts
+end_time: 1686763751713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38dade10d7a24b918bc1dc20c4beef7c
+run_name: lyrical-crane-131
+run_uuid: 38dade10d7a24b918bc1dc20c4beef7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686763751315
+status: 4
+tags: []
+user_id: julu9
