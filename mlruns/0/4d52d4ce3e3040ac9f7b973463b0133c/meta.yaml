@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d52d4ce3e3040ac9f7b973463b0133c/artifacts
+end_time: 1686765702063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d52d4ce3e3040ac9f7b973463b0133c
+run_name: useful-ape-537
+run_uuid: 4d52d4ce3e3040ac9f7b973463b0133c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686765691317
+status: 3
+tags: []
+user_id: Harish Vasanth
