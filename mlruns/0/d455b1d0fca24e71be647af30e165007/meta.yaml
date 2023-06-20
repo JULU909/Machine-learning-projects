@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d455b1d0fca24e71be647af30e165007/artifacts
+end_time: 1687287414577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d455b1d0fca24e71be647af30e165007
+run_name: bemused-worm-133
+run_uuid: d455b1d0fca24e71be647af30e165007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687287407087
+status: 3
+tags: []
+user_id: Harish Vasanth

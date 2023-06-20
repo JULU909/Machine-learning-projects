@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bfae14abf4934f328e8f980e55fd4e7b/artifacts
+end_time: 1687286835120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfae14abf4934f328e8f980e55fd4e7b
+run_name: funny-owl-222
+run_uuid: bfae14abf4934f328e8f980e55fd4e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687286737603
+status: 3
+tags: []
+user_id: Harish Vasanth

@@ -1,0 +1,10 @@
+digest: f9e651fb
+name: dataset
+profile: '{"num_rows": 105, "num_elements": 420}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length (cm)"}, {"type":
+  "double", "name": "sepal width (cm)"}, {"type": "double", "name": "petal length
+  (cm)"}, {"type": "double", "name": "petal width (cm)"}]}'
+source: '{"tags": {"mlflow.user": "Harish Vasanth", "mlflow.source.name": "c:\\Users\\Harish
+  Vasanth\\Desktop\\Machine-learning-projects\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "d47e3fc138ab2dabe43829cbb6cacff230ce6c8c"}}'
+source_type: code

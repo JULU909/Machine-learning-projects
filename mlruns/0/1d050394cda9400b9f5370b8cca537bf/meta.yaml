@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d050394cda9400b9f5370b8cca537bf/artifacts
+end_time: 1687286860927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d050394cda9400b9f5370b8cca537bf
+run_name: dapper-sheep-583
+run_uuid: 1d050394cda9400b9f5370b8cca537bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687286853969
+status: 3
+tags: []
+user_id: Harish Vasanth

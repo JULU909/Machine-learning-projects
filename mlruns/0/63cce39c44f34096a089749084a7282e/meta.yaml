@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/63cce39c44f34096a089749084a7282e/artifacts
+deleted_time: 1687286963786
+end_time: 1687286944104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 63cce39c44f34096a089749084a7282e
+run_name: resilient-swan-813
+run_uuid: 63cce39c44f34096a089749084a7282e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687286937044
+status: 4
+tags: []
+user_id: Harish Vasanth

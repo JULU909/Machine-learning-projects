@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/43887db5110548c795fa5067a9763cba/artifacts
+deleted_time: 1687287283800
+end_time: 1687287134017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 43887db5110548c795fa5067a9763cba
+run_name: worried-pug-940
+run_uuid: 43887db5110548c795fa5067a9763cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687287120356
+status: 3
+tags: []
+user_id: Harish Vasanth

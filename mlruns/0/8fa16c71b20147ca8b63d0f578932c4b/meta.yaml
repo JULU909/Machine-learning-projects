@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8fa16c71b20147ca8b63d0f578932c4b/artifacts
+end_time: 1687286835120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fa16c71b20147ca8b63d0f578932c4b
+run_name: crawling-toad-452
+run_uuid: 8fa16c71b20147ca8b63d0f578932c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687286737603
+status: 3
+tags: []
+user_id: Harish Vasanth
