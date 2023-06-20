@@ -1,2 +1,2 @@
 # Machine-learning-projects
-Machine learning projects I am working on out of intrest!.
+Machine learning & Data science projects I am working on out of intrest!.
