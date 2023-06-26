@@ -8,5 +8,8 @@ Process :
             - Used Seaborn and Matplotlib from visualisation of data and analysis
             - Conducted feature engineering such as cyclical feature encoding , one hot encoding & creating features from old ones
             - Built a simple XGBoost model and conducted hyperperameter tunning. 
-            - 
+
+
+## Project 2: IMDB Movies : 
+#### Rationale : . 
             
