@@ -7,6 +7,6 @@ Process :
 
             - Used Seaborn and Matplotlib from visualisation of data and analysis
             - Conducted feature engineering such as cyclical feature encoding , one hot encoding & creating features from old ones
-            - Simplified Evaluation Function as the heuristic
-            - Pygame module for the environment and UI 
+            - Built a simple XGBoost model and conducted hyperperameter tunning. 
+            - 
             
