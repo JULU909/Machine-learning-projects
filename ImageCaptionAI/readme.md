@@ -11,7 +11,7 @@ Dataset
 
 The Flickr8k dataset has become a standard benchmark for sentence-based image description for beginners.Flickr 8k dataset contains 8092 images and up to five captions for each image. Such annotations are essential for continued progress in automatic image description and grounded language understanding. 
 
-![Image Captioning Model](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanunay999%2Fimage_captioning_vgg16&psig=AOvVaw0CyeJL8sRI87u5wxdeXwI_&ust=1717631521343000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCZgpeSw4YDFQAAAAAdAAAAABAE)
+![Image Captioning Model](https://raw.githubusercontent.com/yunjey/pytorch-tutorial/master/tutorials/03-advanced/image_captioning/png/model.png)
 
 
 
