@@ -1,1 +1,4 @@
 MalariaEncoder/Dataset/data.zip
+ImageCaptionAI/Flickr8k_Dataset
+ImageCaptionAI/Flickr8k_text
+ImageCaptionAI/image_features_VGG16.pkl
