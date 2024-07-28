@@ -44,13 +44,13 @@ def caption_cleaning(caption_dict):
             
     return(caption_dict)
 
-if __name__ == "__main__"():
-    with open("Flickr8k_text/Flickr8k.token.txt", "r") as f:
+if __name__ == "__main__":
+    with open(r"C:\Users\Harish Vasanth\Desktop\Machine-learning-projects\ImageCaptionAI\Flickr8k_text\Flickr8k.token.txt", "r") as f:
         raw_caption = f.read()
 
     caption_dict = caption_dictionary(raw_caption)
     caption_dict = caption_cleaning(caption_dict)
 
     #Save the caption_dict for future use
-    with open("captions.pkl", "wb") as f:
+    with open(r"C:\Users\Harish Vasanth\Desktop\Machine-learning-projects\ImageCaptionAI\captions.pkl", "wb") as f:
         dump(caption_dict, f)
