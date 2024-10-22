@@ -4,4 +4,3 @@ ImageCaptionAI/Flickr8k_text
 ImageCaptionAI/image_features_VGG16.pkl
 ImageCaptionAI/glove.twitter.27B
 reference.txt
-ImageCaptionAI/features.pkl
